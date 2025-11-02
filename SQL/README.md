@@ -83,3 +83,14 @@ FROM monthly_gmv;
 即订单在 11 月下单但在 12 月送达，从而造成 GMV 口径差异。📦📉📈
 
 ---
+
+
+## 下单时间口径GMV计算结果
+<img width="1172" height="1072" alt="image" src="https://github.com/user-attachments/assets/2a39e273-9142-4f32-a530-0cd90682794c" />
+
+## 送达时间口径GMV计算结果
+注:将月份为NUll及2018.09 2018.10月份的数据过滤
+<img width="1104" height="1050" alt="image" src="https://github.com/user-attachments/assets/9cd28752-b2fc-456e-8d17-4461fa9e8ea3" />
+
+
+
